@@ -1,13 +1,14 @@
 # blvnk-spam || Ben Foster
 
 * [About Me](#about-me)
-* [Contact Me](contact)
+* [Contact Me](#contact)
 
 ## About Me
 Test 123
 
 ## Contact
-This is another section
+This is some contact information
+
 <!--
 **blvnk-spam/blvnk-spam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
