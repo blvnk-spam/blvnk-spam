@@ -1,6 +1,6 @@
-## blvnk-spam || Ben Foster
+# blvnk-spam || Ben Foster
 
-* [About Me] (#about-me)
+* [About Me](#about-me)
 
 ## About Me
 Test 123
